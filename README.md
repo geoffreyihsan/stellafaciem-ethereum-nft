@@ -36,3 +36,4 @@ This project was created for educational purposes, please refer to the [LICENCE]
 - Infura free basic plan or higher _(optional: used by the CLI commands in order to perform operations on real blockchains, you can skip this if you deploy and manage your contract manually)_
 - Coin Market Cap free API key _(optional: used for retrieving the current ETH price for gas cost estimation in USD)_
 # stellafaciem-ethereum-nft
+# stellafaciem-ethereum-nft
