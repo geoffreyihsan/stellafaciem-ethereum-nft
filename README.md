@@ -37,3 +37,4 @@ This project was created for educational purposes, please refer to the [LICENCE]
 - Coin Market Cap free API key _(optional: used for retrieving the current ETH price for gas cost estimation in USD)_
 # stellafaciem-ethereum-nft
 # stellafaciem-ethereum-nft
+# stellafaciem-ethereum-nft
